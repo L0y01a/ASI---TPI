@@ -1,2 +1,7 @@
-hola putas
-grecco trolo
+trabajo practico de análisis de sistemas de información
+
+Presentación 
+El presente trabajo se desarrolla en el marco de la materia Análisis de Sistemas de Información por los alumnos de la cátedra, dictada en la Universidad Tecnológica Nacional Facultad Regional Villa María; situada en Av. Universidad 450. 
+El Trabajo Práctico Integrador consiste en analizar un sistema de organización de retiros para el goce de aquellos que necesitan despejarse de la vida rutinaria. 
+Este trabajo tendrá como objetivo principal la aplicación y la relación de los contenidos desarrollados a lo largo del programa de la cátedra e integrar los conocimientos adquiridos en las materias verticales y horizontales. 
+El desarrollo abarca las actividades de modelado del dominio hasta las actividades de especificación de requisitos del sistema de software que le dará soporte a los procesos de negocio principales. 
