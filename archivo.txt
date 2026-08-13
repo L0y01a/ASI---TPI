@@ -6,11 +6,17 @@ El Trabajo Práctico Integrador consiste en analizar un sistema de organización
 Este trabajo tendrá como objetivo principal la aplicación y la relación de los contenidos desarrollados a lo largo del programa de la cátedra e integrar los conocimientos adquiridos en las materias verticales y horizontales. 
 El desarrollo abarca las actividades de modelado del dominio hasta las actividades de especificación de requisitos del sistema de software que le dará soporte a los procesos de negocio principales. 
 
-Enunciado: 
-RetirARTE es un centro dedicado a la organización de distintos retiros tanto como espirituales y de bienestar (entre otros) dentro y fuera del país. El centro cuenta con una aplicación para seleccionar y coordinar lugares de retiro, con una duración desde un fin de semana hasta varios. Los tipos de retiros que ofrece son, de bienestar, de yoga y meditación, espirituales o de silencio, temáticos y psicodélicos. Cada retiro cuenta con sus características, siendo estas: lugares de realización, duración, guías espirituales profesionales, capacidad máxima, costó, métodos de pagos, y limitaciones (edad permitida, bienes necesarios).
-Cuando una persona necesita acceder a un retiro para poder despejarse, esta accede a la aplicación y selecciona una empresa, una vez seleccionada se comunica con el coordinador de entrevistas y le este le toma sus datos personales: Nombre, Apellido, DNI, edad, teléfono y mail.
+Enunciado para una aplicación: 
+RetirARTE es un centro dedicado a la organización de distintos retiros tanto como espirituales y de bienestar (entre otros) dentro y fuera del país. El centro cuenta con una aplicación para seleccionar y coordinar lugares de retiro, con una duración desde un fin de semana hasta varios. Los tipos de retiros que ofrece son, de bienestar, de yoga y meditación, espirituales o de silencio, temáticos y psicodélicos. Cada retiro cuenta sus características siendo estas: lugares de realización, duración, guías espirituales profesionales, capacidad máxima, costo, método de pago y limitaciones (edad permitida, bienes necesarios).
+Cuando una persona necesita acceder a un retiro para poder despejarse, esta accede a la aplicación y selecciona una empresa, una vez seleccionada se le solicita que ingrese sus datos personales: Nombre, Apellido, DNI, edad, teléfono y mail.
 En caso de que el interesado decida cancelar el retiro, deberá hacerlo 14 días hábiles antes del viaje
 La empresa encargada de los retiros le concede un servicio de transporte para aquellas personas que realizaron el retiro correspondiente.
+
+Enunciado modificado:
+retirARTE es un centro dedicado a la organización de distintos retiros tanto como espirituales y de bienes (entre otros) dentro y fuera del país. EL centro quiere desarrollar una aplicación que optimice el método de búsqueda e inscripción a retiros.
+Este sistema debe poder ver los distintos retiros disponibles con ilustraciones del lugar donde se desarrolla y sus características: lugares de realización, duración, guías espirituales profesionales, capacidad máxima, costo, método de pago y limitaciones (edad permitida, bienes necesarios).
+El sistema al momento de iniciar se requiere que se ingrese los datos personales de la persona que va a realizar el retiro: Nombre, Apellido, DNI, teléfono, mail. y posteriormente seleccionar el retire que desee la aplicación le permite agregar algunas observaciones adicionales (como sea el caso de un acompañante de viaje).
+La aplicación cuenta con una agenda que le permite visualizar todos los retiros que a realización junto a su duración, además podrá ver toda las características que tiene en el momento que desee, la aplicación permite cancelar todo registro de reserva en caso de ceder al viaje.
 
 Anexo utilizados:
 Retiros Argentina, Programas de Retiro en Argentina 
