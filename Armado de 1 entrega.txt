@@ -15,10 +15,15 @@ La empresa encargada de los retiros le concede un servicio de transporte para aq
 Enunciado modificado:
 retirARTE es un centro dedicado a la organización de distintos retiros tanto como espirituales y de bienes (entre otros) dentro y fuera del país. EL centro quiere desarrollar una aplicación que optimice el método de búsqueda e inscripción a retiros.
 Este sistema debe poder ver los distintos retiros disponibles con ilustraciones del lugar donde se desarrolla y sus características: lugares de realización, duración, guías espirituales profesionales, capacidad máxima, costo, método de pago y limitaciones (edad permitida, bienes necesarios).
-El sistema al momento de iniciar se requiere que se ingrese los datos personales de la persona que va a realizar el retiro: Nombre, Apellido, DNI, teléfono, mail. y posteriormente seleccionar el retire que desee la aplicación le permite agregar algunas observaciones adicionales (como sea el caso de un acompañante de viaje).
-La aplicación cuenta con una agenda que le permite visualizar todos los retiros que a realización junto a su duración, además podrá ver toda las características que tiene en el momento que desee, la aplicación permite cancelar todo registro de reserva en caso de ceder al viaje.
+El sistema al momento de iniciar se requiere que se ingrese los datos personales de la persona que va a realizar el retiro: Nombre, Apellido, DNI, teléfono, mail. Posteriormente seleccionar el retire que desee, la aplicación le permite agregar algunas observaciones adicionales (como sea el caso de un acompañante de viaje).
+Esta misma cuenta con una agenda que le permite visualizar todos los retiros que a realización junto a su duración, además podrá ver toda las características que tiene en el momento que desee, El sistema consta con un apartado el cual se podrá visualizar el total de gastos que se lleva en retiros, cada una con su descripción para facilitar el control económico de cada cliente.
+Cada retiro al que se puede inscribir es posible cancelarlo mediante la aplicación.
 
 Anexo utilizados:
 Retiros Argentina, Programas de Retiro en Argentina 
 Casas de Convivencias y Retiros 
 Directorio de Retiros de Silencio en Argentina - Retiros de Silencio en Argentina
+
+-------
+
+Objetivo del dominio: El objetivo principal es facilitar la organización de la información brindada por los usuarios en base a los retiros que participa y un mejor control sobre los gastos y planificaciones a futuros planes de retiro.
