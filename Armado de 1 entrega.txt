@@ -20,12 +20,15 @@ Esta misma cuenta con una agenda que le permite visualizar todos los retiros que
 Cada retiro al que se puede inscribir es posible cancelarlo mediante la aplicación.
 
 Anexo utilizados:
-Retiros Argentina, Programas de Retiro en Argentina 
-Casas de Convivencias y Retiros 
-Directorio de Retiros de Silencio en Argentina - Retiros de Silencio en Argentina
+- Retiros Argentina, Programas de Retiro en Argentina / https://retirosargentina.com.ar/retiros
+
+- Casas de Convivencias y Retiros / https://www.casasdeconvivencias.org.ar/
+
+- Directorio de Retiros de Silencio en Argentina - Retiros de Silencio en Argentina / https://retirosdesilencioenargentina.org/
+
+- Casa de Retiros Espirituales / https://www.casademaria.com.ar/
+
 
 -------
 
-Objetivo del dominio: El objetivo principal es facilitar la organización de la información brindada por los usuarios en base a los retiros que participa y un mejor control sobre los gastos y planificaciones a futuros planes de retiro..
-
-
+Objetivo del dominio: El objetivo principal es facilitar la organización de la información brindada por los usuarios en base a los retiros que participa y un mejor control sobre los gastos y planificaciones a futuros planes de retiro.
