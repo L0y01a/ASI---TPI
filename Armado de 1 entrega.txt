@@ -32,3 +32,32 @@ Anexo utilizados:
 -------
 
 Objetivo del dominio: El objetivo principal es facilitar la organización de la información brindada por los usuarios en base a los retiros que participa y un mejor control sobre los gastos y planificaciones a futuros planes de retiro.
+
+Requerimiento funcionales:
+Consulta de retiros:
+
+1- El sistema debe permitir visualizar el listado de retiros disponibles, dentro y fuera del país
+2- El sistema debe mostrar, para cada retiro, ilustraciones o imágenes del lugar donde se desarrolla.
+3- El sistema debe mostrar las características de cada retiro: lugar de realización, duración, guías    espirituales profesionales, capacidad máxima, costo, método de pago y limitaciones
+4- El sistema debe permitir consultar las características de un retiro en cualquier momento, no solo al momento de la inscripción.
+Registro de usuario:
+
+5- El sistema debe solicitar el ingreso de los datos personales del usuario al iniciar la aplicación: Nombre, Apellido, DNI, teléfono y correo electrónico.
+6- El sistema debe validar que los datos personales ingresados sean correctos y estén completos antes de continuar.
+Inscripción a retiros:
+
+7- El sistema debe permitir al usuario seleccionar el retiro al cual desea inscribirse.
+8- El sistema debe permitir al usuario agregar observaciones adicionales a su inscripción (por ejemplo, indicar un acompañante de viaje).
+9- El sistema debe validar que existan cupos disponibles antes de confirmar la inscripción.
+10- El sistema debe validar que el usuario cumpla con las limitaciones del retiro antes de confirmar la inscripción.
+11- El sistema debe registrar el método de pago seleccionado por el usuario al momento de inscribirse.
+12- El sistema debe permitir cancelar la inscripción a un retiro previamente registrado.
+Agenda:
+
+13- El sistema debe contar con una agenda que muestre todos los retiros a los que el usuario está inscripto.
+14- El sistema debe mostrar, en la agenda, la duración de cada retiro al que el usuario está inscripto.
+15- El sistema debe actualizar automáticamente la agenda cuando se realice una nueva inscripción o cancelación.
+Control de gastos:
+
+16- El sistema debe contar con un apartado que muestre el total de gastos incurridos en retiros por cada cliente.
+17- El sistema debe mostrar el detalle del gasto correspondiente a cada retiro, a fin de facilitar el control económico del cliente.
