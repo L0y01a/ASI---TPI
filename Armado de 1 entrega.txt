@@ -26,5 +26,6 @@ Directorio de Retiros de Silencio en Argentina - Retiros de Silencio en Argentin
 
 -------
 
-Objetivo del dominio: El objetivo principal es facilitar la organización de la información brindada por los usuarios en base a los retiros que participa y un mejor control sobre los gastos y planificaciones a futuros planes de retiro.
+Objetivo del dominio: El objetivo principal es facilitar la organización de la información brindada por los usuarios en base a los retiros que participa y un mejor control sobre los gastos y planificaciones a futuros planes de retiro..
+
 
